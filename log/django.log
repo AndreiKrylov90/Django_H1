@@ -67,3 +67,196 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 305
 "GET /about/ HTTP/1.1" 200 213
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+"GET /about/ HTTP/1.1" 200 213
+"GET /coin/ HTTP/1.1" 200 8
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2921
+"GET /dice/ HTTP/1.1" 200 1
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+"GET /about/ HTTP/1.1" 200 213
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /coin
+"GET /coin HTTP/1.1" 404 2945
+Not Found: /coin
+"GET /coin HTTP/1.1" 404 2945
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2945
+"GET /dice HTTP/1.1" 301 0
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+Not Found: /coin
+"GET /coin HTTP/1.1" 404 2945
+Not Found: /coin
+"GET /coin HTTP/1.1" 404 2945
+"GET /hundred HTTP/1.1" 301 0
+"GET /hundred/ HTTP/1.1" 200 2
+"GET /hundred/ HTTP/1.1" 200 2
+"GET /hundred/ HTTP/1.1" 200 2
+Not Found: /coin
+"GET /coin HTTP/1.1" 404 2945
+Internal Server Error: /coin/5
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: coin() got an unexpected keyword argument 'amount_flips'
+"GET /coin/5 HTTP/1.1" 500 61586
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /coin HTTP/1.1" 301 0
+"GET /coin/ HTTP/1.1" 200 10
+"GET /coin/ HTTP/1.1" 200 10
+"GET /coin/ HTTP/1.1" 200 10
+"GET /coin/ HTTP/1.1" 200 10
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+Internal Server Error: /coin/0
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py", line 19, in coin
+    return render(request, 'dice/coin.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: dice/coin.html
+"GET /coin/0 HTTP/1.1" 500 82832
+Internal Server Error: /coin/10
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py", line 19, in coin
+    return render(request, 'dice/coin.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: dice/coin.html
+"GET /coin/10 HTTP/1.1" 500 83833
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+Internal Server Error: /coin/10
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py", line 19, in coin
+    return render(request, 'dice/coin.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: dice/coin.html
+"GET /coin/10 HTTP/1.1" 500 84321
+Not Found: /dice/coin/10
+"GET /dice/coin/10 HTTP/1.1" 404 2969
+Not Found: /myapp2/coin/10
+"GET /myapp2/coin/10 HTTP/1.1" 404 2975
+"GET / HTTP/1.1" 200 305
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+"GET /coin/10 HTTP/1.1" 200 746
+"GET /coin/10 HTTP/1.1" 200 859
+"GET /coin/10 HTTP/1.1" 200 971
+"GET /coin/10 HTTP/1.1" 200 1083
+"GET /coin/10 HTTP/1.1" 200 1195
+"GET /coin/10 HTTP/1.1" 200 1308
+"GET /coin/10 HTTP/1.1" 200 1421
+"GET /coin/10 HTTP/1.1" 200 1422
+"GET /coin/10 HTTP/1.1" 200 1421
+"GET /coin/10 HTTP/1.1" 200 1422
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2948
+"GET /coin/10 HTTP/1.1" 200 1422
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
