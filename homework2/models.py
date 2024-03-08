@@ -32,7 +32,8 @@ class Order2(models.Model):
 
     def __str__(self):
         products = ', '.join([product.name for product in self.products.all()])
-        return f'Order: customer: {self.customer.name}, total_price: {self.total_price}, products: {products}'
+        return f'Order #{self.pk}: customer: {self.customer.name}, total_price: {self.total_price}, products: {products}'
+
 
 class Author(models.Model):
     name = models.CharField(max_length=100)
