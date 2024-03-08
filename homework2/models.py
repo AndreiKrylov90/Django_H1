@@ -21,7 +21,8 @@ class Product2(models.Model):
     date_added = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f'Product: {self.name}, price: {self.price}, amount: {self.amount}'
+        return f'Product #{self.pk}: {self.name}, price: {self.price}, amount: {self.amount}'
+
 
 class Order2(models.Model):
     customer = models.ForeignKey(User2, on_delete=models.CASCADE)
@@ -29,6 +30,9 @@ class Order2(models.Model):
     total_price = models.DecimalField(max_digits=8, decimal_places=2)
     date_ordered = models.DateTimeField(auto_now_add=True)
 
+    def __str__(self):
+        products = ', '.join([product.name for product in self.products.all()])
+        return f'Order: customer: {self.customer.name}, total_price: {self.total_price}, products: {products}'
 
 class Author(models.Model):
     name = models.CharField(max_length=100)
