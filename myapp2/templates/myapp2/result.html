@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+    <h3>Результаты "{{title}}"</h3>
+    <p>
+        {% for res in result %}
+        <p>Результат равен: {{res}}</p>
+        {% endfor %}
+    </p>
+{% endblock %}

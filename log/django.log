@@ -260,3 +260,709 @@ C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains
 Watching for file changes with StatReloader
 C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\models.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+Not Found: /les3/hello
+"GET /les3/hello HTTP/1.1" 404 3307
+Not Found: /less3/hello
+"GET /less3/hello HTTP/1.1" 404 3070
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /less3/hello
+"GET /less3/hello HTTP/1.1" 404 3071
+"GET /les3/hello HTTP/1.1" 301 0
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/hello2/ HTTP/1.1" 200 23
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/posts/2019 HTTP/1.1" 301 0
+"GET /les3/posts/2019/ HTTP/1.1" 200 19
+"GET /les3/posts/2019/6 HTTP/1.1" 301 0
+"GET /les3/posts/2019/6/ HTTP/1.1" 200 21
+"GET /les3/posts/2019/6/hello HTTP/1.1" 301 0
+"GET /les3/posts/2019/6/hello/ HTTP/1.1" 200 359
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3 HTTP/1.1" 301 0
+"GET /les3/ HTTP/1.1" 200 177
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/if HTTP/1.1" 301 0
+Internal Server Error: /les3/if/
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_if.html
+"GET /les3/if/ HTTP/1.1" 500 82454
+"GET /les3/if/ HTTP/1.1" 200 357
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/for HTTP/1.1" 301 0
+"GET /les3/for/ HTTP/1.1" 200 876
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82162
+Not Found: /less/if
+"GET /less/if HTTP/1.1" 404 3059
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82162
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 81857
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82162
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3071
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82162
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82299
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82299
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py", line 7, in index
+    return render(request, 'my_template.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 82299
+"GET / HTTP/1.1" 200 178
+"GET /les3/for/ HTTP/1.1" 200 876
+"GET /les3/ HTTP/1.1" 200 177
+"GET /les3/if/ HTTP/1.1" 200 357
+Not Found: /les2/coin
+"GET /les2/coin HTTP/1.1" 404 3080
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2633
+Not Found: /coin/
+"GET /coin/ HTTP/1.1" 404 2633
+Not Found: /coin/10
+"GET /coin/10 HTTP/1.1" 404 2639
+Not Found: /coin/10
+"GET /coin/10 HTTP/1.1" 404 2639
+"GET /about/ HTTP/1.1" 200 213
+"GET / HTTP/1.1" 200 178
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+"GET /about/ HTTP/1.1" 200 213
+"GET /les3/ HTTP/1.1" 200 177
+"GET /les3/if/ HTTP/1.1" 200 357
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/hello2/ HTTP/1.1" 200 23
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/for/ HTTP/1.1" 200 876
+Not Found: /dice
+"GET /dice HTTP/1.1" 404 2630
+"GET /les2/dice HTTP/1.1" 301 0
+"GET /les2/dice/ HTTP/1.1" 200 1
+"GET /les2/dice/ HTTP/1.1" 200 1
+"GET /les2/dice/ HTTP/1.1" 200 1
+"GET /les2/dice/ HTTP/1.1" 200 1
+Not Found: /les2/coin10
+"GET /les2/coin10 HTTP/1.1" 404 3086
+"GET /les2/coin/10 HTTP/1.1" 200 1421
+"GET /les2/coin/100 HTTP/1.1" 200 2095
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/index HTTP/1.1" 301 0
+"GET /les3/index/ HTTP/1.1" 200 215
+"GET /les3/about HTTP/1.1" 301 0
+"GET /les3/about/ HTTP/1.1" 200 218
+"GET /les3/index/ HTTP/1.1" 200 213
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/about/ HTTP/1.1" 200 218
+"GET /les3/about/ HTTP/1.1" 200 218
+"GET /les3/index/ HTTP/1.1" 200 213
+"GET /les3/index/ HTTP/1.1" 200 213
+"GET /les3/index/ HTTP/1.1" 200 213
+Not Found: /les3/фищге
+"GET /les3/%D1%84%D0%B8%D1%89%D0%B3%D0%B5 HTTP/1.1" 404 4416
+"GET /les3/about/ HTTP/1.1" 200 218
+"GET /les3/about/ HTTP/1.1" 200 278
+"GET /les3/about/ HTTP/1.1" 200 278
+"GET /les3/index/ HTTP/1.1" 200 273
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 305
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+"GET / HTTP/1.1" 200 273
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp3\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+Not Found: /les3/author_posts/5
+"GET /les3/author_posts/5 HTTP/1.1" 404 4683
+Not Found: /les3/author_posts
+"GET /les3/author_posts HTTP/1.1" 404 4677
+Not Found: /les3/author_posts10
+"GET /les3/author_posts10 HTTP/1.1" 404 4683
+Not Found: /author_posts10
+"GET /author_posts10 HTTP/1.1" 404 2538
+Not Found: /author_posts/10
+"GET /author_posts/10 HTTP/1.1" 404 2541
+"GET /les3/index/ HTTP/1.1" 200 273
+"GET /les3/author/5 HTTP/1.1" 301 0
+"GET /les3/author/5/ HTTP/1.1" 200 1363
+"GET /les3/post/35/ HTTP/1.1" 200 684
+"GET /les3/post/5 HTTP/1.1" 301 0
+"GET /les3/post/5/ HTTP/1.1" 200 628
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2529
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+"GET /les2/dice HTTP/1.1" 301 0
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+"GET /les2/dice/ HTTP/1.1" 200 200
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les2/coin/100 HTTP/1.1" 200 2207
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les2/dice/10 HTTP/1.1" 200 229
+"GET /les2/dice/10 HTTP/1.1" 200 213
+"GET /les2/dice/10 HTTP/1.1" 200 213
+"GET /les2/dice/10 HTTP/1.1" 200 213
+"GET /les2/dice/10 HTTP/1.1" 200 833
+"GET /les2/dice/10 HTTP/1.1" 200 833
+"GET /les2/dice/10 HTTP/1.1" 200 833
+"GET /les2/dice/10 HTTP/1.1" 200 813
+"GET /les2/dice/10 HTTP/1.1" 200 813
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/10 HTTP/1.1" 200 783
+"GET /les2/dice/15 HTTP/1.1" 200 1068
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+"GET /les2/dice/15 HTTP/1.1" 200 1076
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1120
+"GET /les2/dice/15 HTTP/1.1" 200 1124
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les2/dice/15 HTTP/1.1" 200 1122
+"GET /les3/author/5 HTTP/1.1" 301 0
+"GET /les3/author/5/ HTTP/1.1" 200 1363
+"GET /les3/post/31/ HTTP/1.1" 200 686
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 10629
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+"GET /les3/index HTTP/1.1" 301 0
+"GET /les3/index/ HTTP/1.1" 200 273
+"GET /les3/hello HTTP/1.1" 301 0
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/about HTTP/1.1" 301 0
+"GET /les3/about/ HTTP/1.1" 200 278
+"GET /les3/author/4 HTTP/1.1" 301 0
+"GET /les3/author/4/ HTTP/1.1" 200 1317
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+Internal Server Error: /h2/user/1/10
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py", line 9, in user_products
+    orders = Order2.objects.filter(customer=user, date_ordered__gte=timezone.now() - datetime.timedelta(days=days))
+                                                                    ^^^^^^^^
+NameError: name 'timezone' is not defined
+"GET /h2/user/1/10 HTTP/1.1" 500 66509
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 273
+"GET /h2/user/1/10 HTTP/1.1" 200 481
+"GET /h2/user/1/10 HTTP/1.1" 200 495
+"GET /h2/user/1/10 HTTP/1.1" 200 495
+"GET /h2/user/1/10 HTTP/1.1" 200 519
+"GET /h2/user/1/10 HTTP/1.1" 200 519
+"GET /h2/user/1/10 HTTP/1.1" 200 519
+"GET /h2/user/1/10 HTTP/1.1" 200 493
+"GET /h2/user/1/10 HTTP/1.1" 200 493
+"GET /h2/user/1/10 HTTP/1.1" 200 493
+"GET /h2/user/2/10 HTTP/1.1" 200 496
+Not Found: /h2/user/4/10
+"GET /h2/user/4/10 HTTP/1.1" 404 2912
+"GET /h2/user/1/10 HTTP/1.1" 200 493
+"GET /h2/user/1/10 HTTP/1.1" 200 593
+"GET /h2/user/1/10 HTTP/1.1" 200 593
+"GET /h2/user/1/10 HTTP/1.1" 200 593
+"GET /h2/user/1/10 HTTP/1.1" 200 558
+"GET /h2/user/1/10 HTTP/1.1" 200 558
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /h2/user/1/10
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py", line 13, in user_products
+    products.extend(order.products.all())
+    ^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'extend'
+"GET /h2/user/1/10 HTTP/1.1" 500 67139
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/1/10 HTTP/1.1" 200 585
+"GET /h2/user/2/365 HTTP/1.1" 200 591
+"GET /h2/user/2/365 HTTP/1.1" 200 791
+"GET /h2/user/2/365 HTTP/1.1" 200 791
+"GET /h2/user/2/365 HTTP/1.1" 200 791
+"GET /h2/user/1/10 HTTP/1.1" 200 785
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /h2/user/2/365
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py", line 13, in user_products
+    products.update(order.products.all())
+    ^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'update'
+"GET /h2/user/2/365 HTTP/1.1" 500 67231
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\homework2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /h2/user/2/365 HTTP/1.1" 200 507
+"GET /h2/user/1/10 HTTP/1.1" 200 596
+"GET /h2/user/1/10 HTTP/1.1" 200 596
+"GET /h2/user/2/270 HTTP/1.1" 200 507
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 304
+"GET /les2/coin/100 HTTP/1.1" 200 2320
+Not Found: /les2/dice
+"GET /les2/dice HTTP/1.1" 404 3110
+"GET /les2/dice/5 HTTP/1.1" 200 583
+Not Found: /les2/dice
+"GET /les2/dice HTTP/1.1" 404 3110
+Not Found: /les2/hundred
+"GET /les2/hundred HTTP/1.1" 404 3119
+Internal Server Error: /les2/hundred/8
+Traceback (most recent call last):
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: hundred() got an unexpected keyword argument 'amount_gens'
+"GET /les2/hundred/8 HTTP/1.1" 500 62106
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myapp2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les2/hundred HTTP/1.1" 301 0
+"GET /les2/hundred/ HTTP/1.1" 200 2
+"GET /les2/hundred/ HTTP/1.1" 200 2
+"GET /les2/hundred/ HTTP/1.1" 200 2
+"GET /les2/hundred/ HTTP/1.1" 200 2
+C:\Users\Krylov_AA\Desktop\Работа\Отчеты и документы\Личные документы\GeekBrains\Django\Practise1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les1 HTTP/1.1" 301 0
+"GET /les1/ HTTP/1.1" 200 305
+"GET /les1/about HTTP/1.1" 301 0
+"GET /les1/about/ HTTP/1.1" 200 213
+Not Found: /l
+"GET /l HTTP/1.1" 404 2601
+"GET / HTTP/1.1" 200 304
+"GET /les3/index/ HTTP/1.1" 200 304
+"GET /les3/about/ HTTP/1.1" 200 309
+"GET /les3/hello/ HTTP/1.1" 200 13
+"GET /les3/hello2/ HTTP/1.1" 200 23
+"GET /les3/if HTTP/1.1" 301 0
+"GET /les3/if/ HTTP/1.1" 200 357
+"GET /les3/for HTTP/1.1" 301 0
+"GET /les3/for/ HTTP/1.1" 200 876
+"GET /les3/post/5 HTTP/1.1" 301 0
+"GET /les3/post/5/ HTTP/1.1" 200 659
+"GET /les3/about/ HTTP/1.1" 200 309
+"GET /les3/author/10 HTTP/1.1" 301 0
+Not Found: /les3/author/10/
+"GET /les3/author/10/ HTTP/1.1" 404 4538
+"GET /les3/author/7 HTTP/1.1" 301 0
+"GET /les3/author/7/ HTTP/1.1" 200 1428
+"GET /h2/user/1/10 HTTP/1.1" 200 596
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 304
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2616
+"GET /les3/index/ HTTP/1.1" 200 304
+"GET /les1/about/ HTTP/1.1" 200 213

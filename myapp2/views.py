@@ -20,10 +20,11 @@ def coin(request, amount_flips):
     # return HttpResponse(result)
 
 
-def dice(request):
-    count = randint(1, 6)
-    logger.debug(count)
-    return HttpResponse(f"{count}")
+def dice(request, amount_throws):
+    results = [randint(1,6) for i in range(amount_throws)]
+
+    context = {'title': 'Игральный кубик', 'result': results}
+    return render(request, 'myapp2/result.html', context)
 
 
 def hundred(request):
