@@ -1,7 +1,7 @@
 from django.utils import timezone
 from django.shortcuts import render, get_object_or_404
 
-from .forms import AuthorForm, PostForm
+from .forms import AuthorForm, PostForm, ProductForm
 from .models import User2, Product2, Order2, Author, Post
 import datetime
 
@@ -63,3 +63,26 @@ def user_posts(request, user_id):
         'form': form,
     }
     return render(request, 'homework2/posts.html', context)
+
+
+def product(request):
+    if request.method == 'POST':
+        form = ProductForm(request.POST, request.FILES)
+        if form.is_valid():
+            product = Product2(
+                name=form.cleaned_data['name'],
+                description=form.cleaned_data['description'],
+                price=form.cleaned_data['price'],
+                amount=form.cleaned_data['amount'],
+                photo=form.cleaned_data['photo']
+            )
+            product.save()
+    else:
+        form = ProductForm()
+    products = Product2.objects.all()
+    context = {
+        "title": "Продукты",
+        "products": products,
+        'form': form,
+    }
+    return render(request, 'homework2/product.html', context)
