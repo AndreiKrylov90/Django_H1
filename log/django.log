@@ -2660,3 +2660,16 @@ Not Found: /media/product_photos/tent.jpg
 Not Found: /media/product_photos/apple.jpg
 "GET /media/product_photos/tent.jpg HTTP/1.1" 404 2790
 "GET /media/product_photos/apple.jpg HTTP/1.1" 404 2793
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 304
+"GET /h2/product/ HTTP/1.1" 200 1967
+"GET /media/product_photos/apple.jpg HTTP/1.1" 200 105004
+"GET /media/product_photos/tent.jpg HTTP/1.1" 200 12580711
+"GET /h2/product/ HTTP/1.1" 200 2017
+"GET /media/product_photos/apple.jpg HTTP/1.1" 304 0
+"GET /h2/product/ HTTP/1.1" 200 2017
+"GET /h2/product/ HTTP/1.1" 200 2080
+"GET /media/product_photos/tent.jpg HTTP/1.1" 304 0
+"GET /h2/product/ HTTP/1.1" 200 2080
+"GET /h2/product/ HTTP/1.1" 200 2013
+"GET /media/product_photos/apple.jpg HTTP/1.1" 304 0

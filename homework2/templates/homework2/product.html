@@ -16,7 +16,7 @@
     {% for product in products %}
         <p>{{ product }}</p>
         {% if product.photo and product.photo.url != '/media/default_product.jpg' %}
-            <img src="{{ product.photo.url }}" alt="{{ product.name }}">
+            <img src="{{ product.photo.url }}" alt="{{ product.name }}" width="50" height="50">
         {% endif %}
     {% endfor %}
 {% endblock %}
