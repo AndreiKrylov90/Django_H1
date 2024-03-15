@@ -2,22 +2,19 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from random import randint, choice
 import logging
-from .models import CoinFlip
+
+from .forms import ChooseGameForm
 
 logger = logging.getLogger(__name__)
 
 
-def coin(request, amount_flips):
-    result = choice(('Head', 'Tails'))
-    logger.info(result)
-    CoinFlip(side=result).save()
-    last_results = CoinFlip.get_last_flips(amount_flips)
+def coin(request, amount_throws):
+    results = [choice(('Head', 'Tails')) for i in range(amount_throws)]
     context = {
-        'current_flip': result,
-        'last_results': last_results
+        'title': 'Монетка',
+        'result': results
     }
-    return render(request, 'myapp2/coin.html', context)
-    # return HttpResponse(result)
+    return render(request, 'myapp2/result.html', context)
 
 
 def dice(request, amount_throws):
@@ -27,8 +24,20 @@ def dice(request, amount_throws):
     return render(request, 'myapp2/result.html', context)
 
 
-def hundred(request):
-    count = randint(1, 100)
-    logger.debug(count)
-    return HttpResponse(f"{count}")
+def hundred(request, amount_throws):
+    results = [randint(1,100) for i in range(amount_throws)]
+    context = {'title': 'Сотня', 'result': results}
+    return render(request, 'myapp2/result.html', context)
 
+
+def result(request):
+    func = {"C": coin, "D": dice, "H": hundred}
+    if request.method == 'POST':
+        form = ChooseGameForm(request.POST)
+        if form.is_valid():
+            game = form.cleaned_data['game']
+            count = form.cleaned_data['count']
+            return func[game](request, count)
+    else:
+        form = ChooseGameForm()
+    return render(request, 'myapp2/home.html', {'form': form})

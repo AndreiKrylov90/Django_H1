@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'myapp',
     'myapp2',
     'myapp3',
+    'myapp4',
     'homework2',
 ]
 
@@ -123,6 +124,9 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
@@ -155,6 +159,11 @@ LOGGING = {
             'level': 'INFO',
             'propagate': True,
         },
+        'myapp4': {
+            'handlers': ['console'],
+            'level': 'INFO',
+            'propagate': True,
+        },
         'homework2': {
             'handlers': ['console'],
             'level': 'INFO',
@@ -162,3 +171,5 @@ LOGGING = {
         },
     },
 }
+
+
