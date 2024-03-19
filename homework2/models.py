@@ -10,7 +10,7 @@ class User2(models.Model):
     date_registered = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f'Username: {self.name}, email: {self.email}, phone: {self.phone}'
+        return f'{self.name}, email: {self.email}, phone: {self.phone}'
 
 
 class Product2(models.Model):
@@ -42,6 +42,9 @@ class Author(models.Model):
     lastname = models.CharField(max_length=100)
     biography = models.TextField()
     date_of_birth = models.DateTimeField(default=timezone.now())
+
+    def __str__(self):
+        return f'{self.name} {self.lastname}'
 
 
 class Post(models.Model):
