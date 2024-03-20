@@ -3548,3 +3548,49 @@ Watching for file changes with StatReloader
 "GET /admin/homework2/order2/ HTTP/1.1" 200 18334
 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 10111
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 12768
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=HistoryPanel HTTP/1.1" 200 4150
+"GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=VersionsPanel HTTP/1.1" 200 760
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=SettingsPanel HTTP/1.1" 200 27919
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=HeadersPanel HTTP/1.1" 200 5193
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=RequestPanel HTTP/1.1" 200 2373
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=SQLPanel HTTP/1.1" 200 428
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=StaticFilesPanel HTTP/1.1" 200 67047
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=TemplatesPanel HTTP/1.1" 200 7933
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=CachePanel HTTP/1.1" 200 1737
+"GET /__debug__/render_panel/?store_id=21dabc9d5e314042b7144bcdb26795cc&panel_id=SignalsPanel HTTP/1.1" 200 2231
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 10111
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+"GET /admin/ HTTP/1.1" 200 24153
+"GET /les6/db HTTP/1.1" 301 0
+"GET /les6/db/ HTTP/1.1" 200 10232
+"GET /les6/view HTTP/1.1" 301 0
+"GET /les6/view/ HTTP/1.1" 200 10218
+"GET /admin/ HTTP/1.1" 200 24152
+"GET /les6/template HTTP/1.1" 301 0
+"GET /les6/template/ HTTP/1.1" 200 10202
+"GET /les6/db/ HTTP/1.1" 200 10248
+"GET /les6/view/ HTTP/1.1" 200 10234
+"GET /__debug__/render_panel/?store_id=abcdacb8a6ba41719f1dfec0bd9b2ec3&panel_id=SQLPanel HTTP/1.1" 200 7204
+"GET /les6/template/ HTTP/1.1" 200 10218
+"GET /__debug__/render_panel/?store_id=91ab56fb7a1b4c78a547675e4c7e944f&panel_id=SQLPanel HTTP/1.1" 200 36081
+"GET /les6/template/ HTTP/1.1" 200 10645
+"GET /__debug__/render_panel/?store_id=16644e1485e747a5b8f35fc331f55fe6&panel_id=ProfilingPanel HTTP/1.1" 200 2473
+"GET /les6/view/ HTTP/1.1" 200 10661
+"GET /les6/db/ HTTP/1.1" 200 10675
+"GET /__debug__/render_panel/?store_id=1fe957b5966f48dc8ee8d3c9ab6ee044&panel_id=HistoryPanel HTTP/1.1" 200 25518
+"GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515

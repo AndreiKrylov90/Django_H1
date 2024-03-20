@@ -28,4 +28,6 @@ urlpatterns = [
     path('', index),
     path('h2/', include('homework2.urls')),
     path('les4/', include('myapp4.urls')),
+    # path('__debug__/', include("debug_toolbar.urls")),
+    path('les6/', include('myapp6.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
